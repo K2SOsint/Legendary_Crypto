@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Crypto OSINT & Blockchain Investigation Field Guide
 
 A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resources, abuse databases, and investigation workflows. For CTI, AML, and forensic investigations.  
-These come various open source startpages, LinkedIn posts and more.
+These come various open source startpages, LinkedIn posts, the legendary (Stay Sharp Legends) [Rick Harmsen](https://www.linkedin.com/in/harmsen/) and more.
 ---
 
 ## 📑 Table of Contents
@@ -139,11 +139,16 @@ These come various open source startpages, LinkedIn posts and more.
 1. Lookup on [Etherscan](https://etherscan.io/).  
 2. Verify on [Ethtective](https://ethtective.com/).  
 3. Trace ERC-20 activity via [Tokenview](https://tokenview.io/).  
-4. Visualize in [Breadcrumbs](https://breadcrumbs.app/).  
+4. Visualize in [Breadcrumbs](https://breadcrumbs.app/).
+
+### ENS (.eth) Domain  
+1. Look up the domain on [ENS Domains](https://app.ens.domains/).  
+2. Identify the linked Ethereum **0x address** at the top.  
+3. Check if the ENS name appears in **transaction history** on [Etherscan](https://etherscan.io/).  
+4. Cross-check connected accounts (e.g., [Lens Protocol](https://www.lens.xyz/), social links, GitHub, Twitter).  
+5. Review NFT activity on [OpenSea](https://opensea.io/), [LooksRare](https://looksrare.org/), or other NFT marketplaces.  
+6. Expand to other chains/platforms using the same ENS name (multi-chain investigation).  
+7. Visualize relationships with tools like [Breadcrumbs](https://breadcrumbs.app/) or [GraphSense](https://graphsense.info/).  
 
 ### Scam/Abuse Check
 - Query across [BitcoinAbuse](https://www.bitcoinabuse.com/), [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
-
----
-
-✅ **Tip:** Use explorers for quick checks, abuse DBs for risk signals, and visualization tools for investigations. Combine **WalletExplorer + Breadcrumbs + Abuse DBs** for strong OSINT workflows.
