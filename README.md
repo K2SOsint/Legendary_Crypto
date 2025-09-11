@@ -1,7 +1,6 @@
 # 🕵️‍♂️ Crypto OSINT & Blockchain Investigation Field Guide
 
-A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resources, abuse databases, and investigation workflows.  
-For CTI, AML, and forensic investigations.  
+A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resources, abuse databases, and investigation workflows. For CTI, AML, and forensic investigations.  
 
 ---
 
