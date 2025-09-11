@@ -85,8 +85,13 @@ These come various open source startpages, LinkedIn posts and more.
 
 - **DataExpert Courses:**
   [DataExpert Cryptocurrency Investigations](https://dataexpert.eu/academy/cryptocurrency-investigations) · [DataExpert Ethereum Basics](https://dataexpert.eu/academy/ethereum-basics) · [DataExpert Ethereum Advanced](https://dataexpert.eu/academy/ethereum-advanced) · [DataExpert Cryptocurrency Investigations Expert](https://dataexpert.eu/academy/cryptocurrency-investigations-expert-custom)
-  [DataExpert led - TRM Labs Crypto Fundamentals](https://dataexpert.eu/academy/trm-crypto-fundamentals) · [DataExpert led - TRM Advanced Crypto Investigator](https://dataexpert.eu/academy/trm-advanced-crypto-investigator) · [DataExpert led - TRM Crypto Compliance Specialist](https://dataexpert.eu/academy/trm-crypto-compliance-specialist) · [DataExpert led - TRM Certified Crypto Investigator](https://dataexpert.eu/academy/trm-certified-investigator)
 
+- **DataExpert-led TRM Courses:**
+  [TRM Labs Crypto Fundamentals](https://dataexpert.eu/academy/trm-crypto-fundamentals) · [TRM Advanced Crypto Investigator](https://dataexpert.eu/academy/trm-advanced-crypto-investigator) · [TRM Crypto Compliance Specialist](https://dataexpert.eu/academy/trm-crypto-compliance-specialist) · [TRM Certified Crypto Investigator](https://dataexpert.eu/academy/trm-certified-investigator)
+
+- **DataExpert-led Chainalysis Courses:**
+  Visit [DataExpert's website](https://dataexpert.eu/academy/categories/cryptocurrency-courses) for more information!
+  
 - **Guides & Blogs:**  
   [CipherTrace 101](https://ciphertrace.com/crypto-investigation-101/) · [Elliptic Casebook](https://www.elliptic.co/blog) · [OXT Articles](https://oxt.me/articles/how_to_investigate_a_bitcoin_address)  
   [Lampyre Bitcoin Forensics](https://lampyre-io.medium.com/collecting-bitcoin-wallet-info-for-osint-purposes-4c4d0f73a4fb)  
