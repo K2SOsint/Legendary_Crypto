@@ -65,7 +65,7 @@ These come various open source startpages, LinkedIn posts and more.
   [BitcoinAbuse API](https://www.bitcoinabuse.com/api-docs) · [BitcoinWho’sWho API](https://www.bitcoinwhoswho.com/api)  
 
 - **Market & Metrics:**  
-  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/)  
+  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io)  
 
 - **Enrichment Tools:**  
   [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/)
@@ -81,7 +81,11 @@ These come various open source startpages, LinkedIn posts and more.
 
 ## 📚 Learning Resources
 - **Courses & Reports:**  
-  [MIT Crypto Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) · [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/)  
+  [MIT Crypto Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) · [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/)
+
+- **DataExpert Courses:**
+  [DataExpert Cryptocurrency Investigations](https://dataexpert.eu/academy/cryptocurrency-investigations) · [DataExpert Ethereum Basics](https://dataexpert.eu/academy/ethereum-basics) · [DataExpert Ethereum Advanced](https://dataexpert.eu/academy/ethereum-advanced) · [DataExpert Cryptocurrency Investigations Expert](https://dataexpert.eu/academy/cryptocurrency-investigations-expert-custom)
+  [DataExpert led - TRM Labs Crypto Fundamentals](https://dataexpert.eu/academy/trm-crypto-fundamentals) · [DataExpert led - TRM Advanced Crypto Investigator](https://dataexpert.eu/academy/trm-advanced-crypto-investigator) · [DataExpert led - TRM Crypto Compliance Specialist](https://dataexpert.eu/academy/trm-crypto-compliance-specialist) · [DataExpert led - TRM Certified Crypto Investigator](https://dataexpert.eu/academy/trm-certified-investigator)
 
 - **Guides & Blogs:**  
   [CipherTrace 101](https://ciphertrace.com/crypto-investigation-101/) · [Elliptic Casebook](https://www.elliptic.co/blog) · [OXT Articles](https://oxt.me/articles/how_to_investigate_a_bitcoin_address)  
