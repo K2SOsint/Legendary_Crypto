@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Crypto OSINT & Blockchain Investigation Field Guide
 
 A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resources, abuse databases, and investigation workflows. For CTI, AML, and forensic investigations.  
-
+These come various open source startpages, LinkedIn posts and more.
 ---
 
 ## 📑 Table of Contents
@@ -68,7 +68,7 @@ A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resou
   [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/)  
 
 - **Enrichment Tools:**  
-  [IntelligenceX](https://intelx.io/) · [MaxMind GeoIP](https://www.maxmind.com/en/geoip-demo)  
+  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/)
 
 ---
 
