@@ -1,7 +1,7 @@
-# 🕵️‍♂️ Legendary Crypto OSINT & Blockchain Investigation Resources
+# 🕵️‍♂️ Legendary Crypto x OSINT & Blockchain Investigation Resources
 
 A curated one-pager of blockchain explorers, OSINT tools, APIs, compliance resources, abuse databases, and investigation workflows. For CTI, AML, and forensic investigations.  
-These come various open source startpages, LinkedIn posts, the legendary (Stay Sharp Legends) [Rick Harmsen](https://www.linkedin.com/in/harmsen/) and more.
+These come various open source startpages, LinkedIn posts, the legendary (Stay Sharp Legends) [Rick Harmsen](https://www.linkedin.com/in/harmsen/), [myself](https://www.linkedin.com/in/henribeek) and more.
 
 
 ## 📑 Table of Contents
