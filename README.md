@@ -26,7 +26,10 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [Etherscan](https://etherscan.io/) · [EthVM](https://ethvm.com/) · [Beaconcha.in](https://beaconcha.in/) · [Ethtective](https://ethtective.com/)  
 
 - **Other Chains:**  
-  [Arbiscan](https://arbiscan.io/) (Arbitrum) · [PolygonScan](https://polygonscan.com/) · [Solscan](https://solscan.io/) · [TronScan](https://tronscan.org/) · [XRPSCAN](https://xrpscan.com/)  
+  [Arbiscan](https://arbiscan.io/) (Arbitrum) · [PolygonScan](https://polygonscan.com/) · [Solscan](https://solscan.io/) · [TronScan](https://tronscan.org/) · [XRPSCAN](https://xrpscan.com/) · [BlockCypher LTC](https://live.blockcypher.com/ltc/) · [XMRChain](https://xmrchain.net/)  
+
+- **Lightning Network:**  
+  [Amboss](https://amboss.space/) · [1ML](https://1ml.com/)  
 
 - **Multi-chain:**  
   [Blockchair](https://blockchair.com/) · [Tokenview](https://tokenview.io/) · [Crystal Explorer](https://explorer.crystalblockchain.com/) · [Matbea](https://matbea.net/) · [BitInfoCharts](https://bitinfocharts.com/)  
@@ -35,7 +38,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🔬 OSINT & Visualization Tools
 - **Tracing & Graphing:**  
-  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/)  
+  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/)  
 
 - **Clustering & Analysis:**  
   [WalletExplorer](https://www.walletexplorer.com/) · [BitInfoCharts](https://bitinfocharts.com/) · [KYCP](https://kycp.org/#/) · [Bitcoin Who’s Who](https://www.bitcoinwhoswho.com/)  
@@ -43,17 +46,23 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - **Forensics Platforms:**  
   [Maltego + CipherTrace](https://www.maltego.com/blog/bitcoin-forensics-with-maltego-and-ciphertrace-blockchain-intelligence/) · [Spiderfoot](https://www.spiderfoot.net/) · [SICP (RU)](http://sicp.ueba.su/)  
 
+- **Wallet & Key Recovery:**  
+  [BTCrecover](https://github.com/gurnec/btcrecover)  
+
 ---
 
 ## 🛡 Abuse & Scam Databases
 - **Blacklists:**  
-  [BitcoinAbuse](https://www.bitcoinabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/)  
+  [BitcoinAbuse](https://www.bitcoinabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/)  
 
 - **Scam Trackers:**  
   [Scam-Alert](https://scam-alert.io/) · [BadBitcoin](https://badbitcoin.org/) · [Bitcoinais](https://bitcoinais.com/) · [Cryptscam](http://cryptscam.com/) · [CryptoScamDB](https://cryptoscamdb.org/scams/)  
 
 - **Community Intel:**  
   [Chainabuse](https://chainabuse.com/) · [Ransomwhere](https://ransomwhe.re/) · [RansomWatch](https://ransomwatch.telemetry.ltd/)  
+
+- **Phishing:**  
+  [PhishTank](https://phishtank.org/) · [OpenPhish](https://openphish.com/)  
 
 ---
 
@@ -68,14 +77,20 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io)  
 
 - **Enrichment Tools:**  
-  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/)
+  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/)  
+
+- **Threat Intel:**  
+  [Abuse.ch Crypto Lists](https://abuse.ch/) · [PhishStats](https://phishstats.info/)  
+
+- **NFT & Web3 Analytics:**  
+  [Nansen](https://www.nansen.ai/) · [Dune](https://dune.com/)  
 
 ---
 
 ## 🛡 Compliance, Risk & AML
 - [Chainalysis](https://www.chainalysis.com/) · [Elliptic](https://www.elliptic.co/) · [TRM Labs Blog](https://www.trmlabs.com/blog)  
 - [Coinfirm](https://www.coinfirm.com/) · [CipherTrace](https://ciphertrace.com/) · [Crystal Blockchain](https://crystalblockchain.com/)  
-- [AMLBot](https://amlbot.com/)  
+- [AMLBot](https://amlbot.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/)  
 
 ---
 
@@ -100,6 +115,12 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [Privacy Coins 101](https://www.chainalysis.com/blog/privacy-coins-anonymity-enhanced-cryptocurrencies/) · [Bitcoin Tracking for Law Enforcement](https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement)  
   [Decoding Lightning Payment Requests](https://medium.com/slamtrade/ln-parser-decoding-and-encoding-of-lightning-payment-request-f84824d8cf30)  
 
+- **Books:**  
+  [Mastering Bitcoin (Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook) · *Cryptoassets: The Innovative Investor's Guide* (Chris Burniske & Jack Tatar)  
+
+- **Research & Standards:**  
+  [NIST Blockchain Forensics](https://csrc.nist.gov/publications)  
+
 ---
 
 ## 🎓 Certifications
@@ -112,12 +133,15 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - [Cellebrite CCIT](https://www.cellebritelearningcenter.com/mod/page/view.php?id=61967)  
 - [Chainalysis Certifications (CCFC, CISC, Reactor)](https://www.chainalysis.com/cisc/)  
 - [CCSSA – CryptoCurrency Security Standard Auditor](https://cryptoconsortium.org/certifications/ccssa/)  
+- [ACFE Crypto Investigations Training](https://www.acfe.com/training-events/)  
+- [NIST/NICE Aligned Certifications](https://www.nist.gov/itl/applied-cybersecurity/nice)  
 
 ---
 
 ## 💼 Specialized Analytic Services
 - [Crystal Blockchain](https://crystalblockchain.com/) · [CipherTrace](https://ciphertrace.com/) · [Chainalysis](https://www.chainalysis.com/)  
 - [Elliptic](https://www.elliptic.co/) · [Coinfirm](https://www.coinfirm.com/) · [AMLBot](https://amlbot.com/)  
+- [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/)  
 
 ---
 
@@ -126,9 +150,11 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 - **Wallets:** [Electrum](https://electrum.org/) · [Trezor](https://trezor.io/) · [MetaMask](https://metamask.io/) · [Samourai Wallet](https://samouraiwallet.com/) · [Wasabi Wallet](https://wasabiwallet.io/) · [ZenGo](https://zengo.com/) · [Venly](https://www.venly.io/)  
 
+- **Mixers / Tumblers (OSINT-relevant targets):** [Wasabi Whirlpool](https://samouraiwallet.com/whirlpool)  
+
 ---
 
-## 🧵 Investigation Workflows
+## 🧵 Possible Investigation Workflows
 ### Bitcoin Address
 1. Check [Blockstream.info](https://blockstream.info/) for TX history.  
 2. Cluster on [WalletExplorer](https://www.walletexplorer.com/).  
@@ -152,3 +178,12 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ### Scam/Abuse Check
 - Query across [BitcoinAbuse](https://www.bitcoinabuse.com/), [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
+
+### Lightning Network Payment Check
+1. Decode invoice with [Lightning Decoder](https://lightningdecoder.com/).  
+2. Map channels with [Amboss](https://amboss.space/).  
+3. Cross-check node IDs against OSINT sources (GitHub, Twitter, Reddit).  
+
+### NFT Wallet Profiling
+1. Review activity on [Dune](https://dune.com/) & [Nansen](https://www.nansen.ai/).  
+2. Check NFT metadata for IPFS/Arweave links (OSINT expansion).  
