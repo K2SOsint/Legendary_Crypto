@@ -184,11 +184,4 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ### Scam/Abuse Check
 - Query across [BitcoinAbuse](https://www.bitcoinabuse.com/), [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
 
-### Lightning Network Payment Check
-1. Decode invoice with [Lightning Decoder](https://lightningdecoder.com/).  
-2. Map channels with [Amboss](https://amboss.space/).  
-3. Cross-check node IDs against OSINT sources (GitHub, Twitter, Reddit).  
 
-### NFT Wallet Profiling
-1. Review activity on [Dune](https://dune.com/) & [Nansen](https://www.nansen.ai/).  
-2. Check NFT metadata for IPFS/Arweave links (OSINT expansion).  
