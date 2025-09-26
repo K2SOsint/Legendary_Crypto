@@ -88,7 +88,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io) · [CoinGecko API](https://www.coingecko.com/en/api) · [Nomics API](https://nomics.com/) · [Messari API](https://messari.io/api) · [Glassnode](https://glassnode.com/) · [CoinAPI](https://www.coinapi.io/)  
 
 - **Enrichment Tools:**  
-  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/)  
+  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/) · [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)  
 
 - **Threat Intel:**  
   [Abuse.ch Crypto Lists](https://abuse.ch/) · [PhishStats](https://phishstats.info/)  
