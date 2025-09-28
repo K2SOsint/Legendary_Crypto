@@ -35,7 +35,13 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [Blockchair](https://blockchair.com/) · [Tokenview](https://tokenview.io/)  
 
 - **Network Statistics:**  
-  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)  
+  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)
+
+- **Layer 2:**  
+  [Optimistic Etherscan](https://optimistic.etherscan.io/) (Optimism) · [Basescan](https://basescan.org/) (Base) · [zkSync Explorer](https://explorer.zksync.io/) · [Starkscan](https://starkscan.co/) (Starknet) · [LineaScan](https://lineascan.build/) (Linea) · [Scroll Explorer](https://scrollscan.com/) (Scroll)
+
+- **Privacy Coins:**  
+  [Zchain](https://explorer.zcha.in/) (Zcash) · [Blockchair ZEC](https://blockchair.com/zcash) · [Dash Insight](https://insight.dash.org/) · [Blockchair DASH](https://blockchair.com/dash) · [Horizen Explorer](https://explorer.horizen.io/)
 
 ---
 
