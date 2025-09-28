@@ -19,31 +19,23 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ---
 
 ## 🔗 Blockchain Explorers
-
 - **Bitcoin:**  
-  [Blockchain.com](https://www.blockchain.com/explorer) · [Blockstream.info](https://blockstream.info/) · [BTCScan](https://btcscan.org/) · [WalletExplorer](https://www.walletexplorer.com/) · [Mempool.space](https://mempool.space/) · [Blockcypher](https://live.blockcypher.com/) · [HASHXP](https://hashxp.org/) · [Bitcoin Paths](https://bitcoinpaths.com/) · [Blockonomics](https://www.blockonomics.co/) · [BTC.com](https://btc.com/)
+  [Blockchain.com](https://www.blockchain.com/explorer) · [Blockstream.info](https://blockstream.info/) · [BTCScan](https://btcscan.org/) · [WalletExplorer](https://www.walletexplorer.com/) · [Mempool.space](https://mempool.space/) · [Blockcypher](https://live.blockcypher.com/) · [HASHXP](https://hashxp.org/) · [Bitcoin Paths](https://bitcoinpaths.com/) · [Blockonomics](https://www.blockonomics.co/) · [BTC.com](https://btc.com/) · [addresschecker.eu](http://addresschecker.eu/) · [btc.cryptoid.info](https://btc.cryptoid.info/) · [btcsniffer.com](https://btcsniffer.com/) · [explorer.bitcoin.com](https://explorer.bitcoin.com/) · [explorer.b.tc](http://explorer.b.tc/)  
 
 - **Ethereum:**  
-  [Etherscan](https://etherscan.io/) · [EthVM](https://ethvm.com/) · [Beaconcha.in](https://beaconcha.in/) · [Ethtective](https://ethtective.com/) · [MyEtherWallet Explorer](https://www.myetherwallet.com/)
+  [Etherscan](https://etherscan.io/) · [EthVM](https://ethvm.com/) · [Beaconcha.in](https://beaconcha.in/) · [Ethtective](https://ethtective.com/) · [MyEtherWallet Explorer](https://www.myetherwallet.com/) · [Optimistic Etherscan](https://optimistic.etherscan.io/)  
 
 - **Other Chains:**  
-  [Arbiscan](https://arbiscan.io/) (Arbitrum) · [PolygonScan](https://polygonscan.com/) · [Solscan](https://solscan.io/) · [TronScan](https://tronscan.org/) · [XRPSCAN](https://xrpscan.com/) · [BlockCypher LTC](https://live.blockcypher.com/ltc/) · [XMRChain](https://xmrchain.net/) · [SoChain](https://chain.so/)  
-  [BscScan](https://bscscan.com/) (BNB Smart Chain) · [SnowTrace](https://snowtrace.io/) (Avalanche) · [FTMScan](https://ftmscan.com/) (Fantom) · [Cardanoscan](https://cardanoscan.io/) · [AdaStat](https://adastat.net/) (Cardano) · [AlgoExplorer](https://algoexplorer.io/) (Algorand) · [NearBlocks](https://nearblocks.io/) (Near) · [Mintscan](https://www.mintscan.io/) (Cosmos) · [TzStats](https://tzstats.com/) · [TzKT](https://tzkt.io/) (Tezos)
-
-- **Layer 2:**  
-  [Optimistic Etherscan](https://optimistic.etherscan.io/) (Optimism) · [Basescan](https://basescan.org/) (Base) · [zkSync Explorer](https://explorer.zksync.io/) · [Starkscan](https://starkscan.co/) (Starknet) · [LineaScan](https://lineascan.build/) (Linea) · [Scroll Explorer](https://scrollscan.com/) (Scroll)
-
-- **Privacy Coins:**  
-  [Zchain](https://explorer.zcha.in/) (Zcash) · [Blockchair ZEC](https://blockchair.com/zcash) · [Dash Insight](https://insight.dash.org/) · [Blockchair DASH](https://blockchair.com/dash) · [Horizen Explorer](https://explorer.horizen.io/)
+  [Arbiscan](https://arbiscan.io/) (Arbitrum) · [PolygonScan](https://polygonscan.com/) · [SnowTrace](https://snowtrace.io/) (Avalanche) · [FTMScan](https://ftmscan.com/) (Fantom) · [Cardanoscan](https://cardanoscan.io/) · [AdaStat](https://adastat.net/) · [AlgoExplorer](https://algoexplorer.io/) · [NearBlocks](https://nearblocks.io/) · [Mintscan](https://www.mintscan.io/) (Cosmos) · [TzStats](https://tzstats.com/) (Tezos) · [TzKT](https://tzkt.io/) (Tezos) · [Solscan](https://solscan.io/) · [TronScan](https://tronscan.org/) · [XRPSCAN](https://xrpscan.com/) · [BlockCypher LTC](https://live.blockcypher.com/ltc/) · [XMRChain](https://xmrchain.net/) · [moneroblocks.info](https://moneroblocks.info/) · [xmrhunter.com](https://www.xmrhunter.com/) · [SoChain](https://chain.so/)  
 
 - **Lightning Network:**  
-  [Amboss](https://amboss.space/) · [1ML](https://1ml.com/)
+  [Amboss](https://amboss.space/) · [1ML](https://1ml.com/)  
 
 - **Multi-chain:**  
-  [Blockchair](https://blockchair.com/) · [Tokenview](https://tokenview.io/)
+  [Blockchair](https://blockchair.com/) · [Tokenview](https://tokenview.io/)  
 
 - **Network Statistics:**  
-  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)
+  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)  
 
 ---
 
@@ -85,10 +77,10 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [BitcoinAbuse API](https://www.bitcoinabuse.com/api-docs) · [BitcoinWho’sWho API](https://www.bitcoinwhoswho.com/api)  
 
 - **Market & Metrics:**  
-  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io) · [CoinGecko API](https://www.coingecko.com/en/api) · [Nomics API](https://nomics.com/) · [Messari API](https://messari.io/api) · [Glassnode](https://glassnode.com/) · [CoinAPI](https://www.coinapi.io/)  
+  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io) · [CoinGecko API](https://www.coingecko.com/en/api) · [CoinGecko](https://www.coingecko.com/en) · [Nomics API](https://nomics.com/) · [Messari API](https://messari.io/api) · [Glassnode](https://glassnode.com/) · [CoinAPI](https://www.coinapi.io/) · [CoinMarketCap](https://coinmarketcap.com/)  
 
 - **Enrichment Tools:**  
-  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/) · [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)  
+  [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/) · [Hudson Rock Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)  
 
 - **Threat Intel:**  
   [Abuse.ch Crypto Lists](https://abuse.ch/) · [PhishStats](https://phishstats.info/)  
@@ -192,4 +184,11 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ### Scam/Abuse Check
 - Query across [BitcoinAbuse](https://www.bitcoinabuse.com/), [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
 
+### Lightning Network Payment Check
+1. Decode invoice with [Lightning Decoder](https://lightningdecoder.com/).  
+2. Map channels with [Amboss](https://amboss.space/).  
+3. Cross-check node IDs against OSINT sources (GitHub, Twitter, Reddit).  
 
+### NFT Wallet Profiling
+1. Review activity on [Dune](https://dune.com/) & [Nansen](https://www.nansen.ai/).  
+2. Check NFT metadata for IPFS/Arweave links (OSINT expansion).  
