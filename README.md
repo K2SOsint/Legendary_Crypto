@@ -15,15 +15,16 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - [Specialized Analytic Services](#-specialized-analytic-services)
 - [Exchanges & Wallets](#-exchanges--wallets)
 - [Investigation Workflows](#-investigation-workflows)
+- [NFT Resources](#-nft-resources)
 
 ---
 
 ## 🔗 Blockchain Explorers
 - **Bitcoin:**  
-  [Blockchain.com](https://www.blockchain.com/explorer) · [Blockstream.info](https://blockstream.info/) · [BTCScan](https://btcscan.org/) · [WalletExplorer](https://www.walletexplorer.com/) · [Mempool.space](https://mempool.space/) · [Blockcypher](https://live.blockcypher.com/) · [HASHXP](https://hashxp.org/) · [Bitcoin Paths](https://bitcoinpaths.com/) · [Blockonomics](https://www.blockonomics.co/) · [BTC.com](https://btc.com/) · [btc.cryptoid.info](https://btc.cryptoid.info/) · [btcsniffer.com](https://btcsniffer.com/) · [explorer.bitcoin.com](https://explorer.bitcoin.com/) · [explorer.b.tc](http://explorer.b.tc/)  
+  [Blockchain.com](https://www.blockchain.com/explorer) · [Blockstream.info](https://blockstream.info/) · [BTCScan](https://btcscan.org/) · [WalletExplorer](https://www.walletexplorer.com/) · [Mempool.space](https://mempool.space/) · [Blockcypher](https://live.blockcypher.com/) · [HASHXP](https://hashxp.org/) · [Bitcoin Paths](https://bitcoinpaths.com/) · [Blockonomics](https://www.blockonomics.co/) · [BTC.com](https://btc.com/) · [btc.cryptoid.info](https://btc.cryptoid.info/) · [btcsniffer.com](https://btcsniffer.com/) · [explorer.bitcoin.com](https://explorer.bitcoin.com/) · [explorer.b.tc](http://explorer.b.tc/) · [3xpl](https://3xpl.com/) · [Crystal Blockchain Explorer](https://explorer.crystalblockchain.com/) · [CoinCodex](https://coincodex.com/) · [Awebanalysis](https://awebanalysis.com/) · [TRM](https://www.trmlabs.com/) · [Lampyre](https://lampyre.io/) · [Bitquery.io](https://bitquery.io/) · [CipherTrace](https://ciphertrace.com/) · [Coinfirm](https://www.coinfirm.com/) · [Whale Alert](https://whale-alert.io/) · [BTCparser](https://btcparser.com/) · [Arkham Intelligence](https://platform.arkhamintelligence.com/) · [MetaSleuth](https://metasleuth.io/) · [SpyderLab](https://spyderlab.org/)  
 
 - **Ethereum:**  
-  [Etherscan](https://etherscan.io/) · [EthVM](https://ethvm.com/) · [Beaconcha.in](https://beaconcha.in/) · [Ethtective](https://ethtective.com/) · [MyEtherWallet Explorer](https://www.myetherwallet.com/) · [Optimistic Etherscan](https://optimistic.etherscan.io/)  
+  [Etherscan](https://etherscan.io/) · [EthVM](https://ethvm.com/) · [Beaconcha.in](https://beaconcha.in/) · [Ethtective](https://ethtective.com/) · [MyEtherWallet Explorer](https://www.myetherwallet.com/) · [Optimistic Etherscan](https://optimistic.etherscan.io/) · [Blockscout](https://blockscout.com/) · [Ethplorer](https://ethplorer.io/) · [TrackEnn](https://trackenn.xyz/) · [Ward Graph](https://github.com/Ward-Graph) · [Socketscan](https://socketscan.io/)  
 
 - **Other Chains:**  
   [Arbiscan](https://arbiscan.io/) (Arbitrum) · [PolygonScan](https://polygonscan.com/) · [SnowTrace](https://snowtrace.io/) (Avalanche) · [FTMScan](https://ftmscan.com/) (Fantom) · [Cardanoscan](https://cardanoscan.io/) · [AdaStat](https://adastat.net/) · [AlgoExplorer](https://algoexplorer.io/) · [NearBlocks](https://nearblocks.io/) · [Mintscan](https://www.mintscan.io/) (Cosmos) · [TzStats](https://tzstats.com/) (Tezos) · [TzKT](https://tzkt.io/) (Tezos) · [Solscan](https://solscan.io/) · [TronScan](https://tronscan.org/) · [XRPSCAN](https://xrpscan.com/) · [BlockCypher LTC](https://live.blockcypher.com/ltc/) · [XMRChain](https://xmrchain.net/) · [moneroblocks.info](https://moneroblocks.info/) · [xmrhunter.com](https://www.xmrhunter.com/) · [SoChain](https://chain.so/)  
@@ -35,19 +36,19 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [Blockchair](https://blockchair.com/) · [Tokenview](https://tokenview.io/)  
 
 - **Network Statistics:**  
-  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)
+  [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)  
 
 - **Layer 2:**  
-  [Optimistic Etherscan](https://optimistic.etherscan.io/) (Optimism) · [Basescan](https://basescan.org/) (Base) · [zkSync Explorer](https://explorer.zksync.io/) · [Starkscan](https://starkscan.co/) (Starknet) · [LineaScan](https://lineascan.build/) (Linea) · [Scroll Explorer](https://scrollscan.com/) (Scroll)
+  [Optimistic Etherscan](https://optimistic.etherscan.io/) (Optimism) · [Basescan](https://basescan.org/) (Base) · [zkSync Explorer](https://explorer.zksync.io/) · [Starkscan](https://starkscan.co/) (Starknet) · [LineaScan](https://lineascan.build/) (Linea) · [Scroll Explorer](https://scrollscan.com/) (Scroll)  
 
 - **Privacy Coins:**  
-  [Zchain](https://explorer.zcha.in/) (Zcash) · [Blockchair ZEC](https://blockchair.com/zcash) · [Dash Insight](https://insight.dash.org/) · [Blockchair DASH](https://blockchair.com/dash) · [Horizen Explorer](https://explorer.horizen.io/)
+  [Zchain](https://explorer.zcha.in/) (Zcash) · [Blockchair ZEC](https://blockchair.com/zcash) · [Dash Insight](https://insight.dash.org/) · [Blockchair DASH](https://blockchair.com/dash) · [Horizen Explorer](https://explorer.horizen.io/)  
 
 ---
 
 ## 🔬 OSINT & Visualization Tools
 - **Tracing & Graphing:**  
-  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/)  
+  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/) · [GraphSense Maltego Transform](https://graphsense.info/) · [Etherscan Maltego Transforms](https://etherscan.io/) · [Onchain.industries](https://onchain.industries/) · [Cielo](https://cielo.finance/)  
 
 - **Clustering & Analysis:**  
   [WalletExplorer](https://www.walletexplorer.com/) · [BitInfoCharts](https://bitinfocharts.com/) · [KYCP](https://kycp.org/#/) · [Bitcoin Who’s Who](https://www.bitcoinwhoswho.com/)  
@@ -62,13 +63,13 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🛡 Abuse & Scam Databases
 - **Blacklists:**  
-  [BitcoinAbuse](https://www.bitcoinabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/)  
+  [BitcoinAbuse](https://www.bitcoinabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/) · [CryptoBlacklist](https://cryptoblacklist.io/)  
 
 - **Scam Trackers:**  
-  [Scam-Alert](https://scam-alert.io/) · [BadBitcoin](https://badbitcoin.org/) · [Bitcoinais](https://bitcoinais.com/) · [Cryptscam](http://cryptscam.com/) · [CryptoScamDB](https://cryptoscamdb.org/scams/) · [ScamCrypto.net](https://scamcrypto.net/) · [IsScamToken](https://isscamtoken.com/)  
+  [Scam-Alert](https://scam-alert.io/) · [BadBitcoin](https://badbitcoin.org/) · [Bitcoinais](https://bitcoinais.com/) · [Cryptscam](http://cryptscam.com/) · [CryptoScamDB](https://cryptoscamdb.org/scams/) · [ScamCrypto.net](https://scamcrypto.net/) · [IsScamToken](https://isscamtoken.com/) · [ScamSearch](https://scamsearch.io/)  
 
 - **Community Intel:**  
-  [Chainabuse](https://chainabuse.com/) · [Ransomwhere](https://ransomwhe.re/) · [RansomWatch](https://ransomwatch.telemetry.ltd/)  
+  [Chainabuse](https://chainabuse.com/) · [Ransomwhere](https://ransomwhe.re/) · [RansomWatch](https://ransomwatch.telemetry.ltd/) · [Know Your Coin Privacy](https://kycp.org/#/) · [SPLC Addresslist](https://splcenter.org/hatewatch) · [Vivigle](https://vivigle.com/)  
 
 - **Phishing:**  
   [PhishTank](https://phishtank.org/) · [OpenPhish](https://openphish.com/)  
@@ -83,7 +84,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [BitcoinAbuse API](https://www.bitcoinabuse.com/api-docs) · [BitcoinWho’sWho API](https://www.bitcoinwhoswho.com/api)  
 
 - **Market & Metrics:**  
-  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io) · [CoinGecko API](https://www.coingecko.com/en/api) · [CoinGecko](https://www.coingecko.com/en) · [Nomics API](https://nomics.com/) · [Messari API](https://messari.io/api) · [Glassnode](https://glassnode.com/) · [CoinAPI](https://www.coinapi.io/) · [CoinMarketCap](https://coinmarketcap.com/)  
+  [CoinMetrics](https://coinmetrics.io/) · [BlockFacts](https://blockfacts.io/) · [BraveNewCoin](https://bravenewcoin.com/developers) · [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) · [CoinLayer](https://coinlayer.com/) · [OpenSea](https://opensea.io) · [CoinGecko API](https://www.coingecko.com/en/api) · [CoinGecko](https://www.coingecko.com/en) · [Nomics API](https://nomics.com/) · [Messari API](https://messari.io/api) · [Glassnode](https://glassnode.com/) · [CoinAPI](https://www.coinapi.io/) · [CoinMarketCap](https://coinmarketcap.com/) · [Whale Alert API](https://docs.whale-alert.io/)  
 
 - **Enrichment Tools:**  
   [IntelligenceX](https://intelx.io/) · [ENS Domain Checker](https://app.ens.domains/) · [Hudson Rock Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)  
@@ -155,13 +156,11 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ---
 
 ## 💱 Exchanges & Wallets
-- **Exchanges:** [Coinbase](https://www.coinbase.com/) · [Kraken](https://www.kraken.com/) · [Binance US](https://binance.us) · [Crypto.com](https://crypto.com) · [Gemini](https://www.gemini.com/) · [Bitstamp](https://www.bitstamp.net/) · [Poloniex](https://poloniex.com/) · [HitBTC](https://hitbtc.com/) · [BitMEX](https://www.bitmex.com/)  
+- **Exchanges:** [Coinbase](https://www.coinbase.com/) · [Kraken](https://www.kraken.com/) · [Binance US](https://binance.us) · [Crypto.com](https://crypto.com) · [Gemini](https://www.gemini.com/) · [Bitstamp](https://www.bitstamp.net/) · [Poloniex](https://poloniex.com/) · [HitBTC](https://hitbtc.com/) · [BitMEX](https://www.bitmex.com/) · [LocalBitcoins](https://localbitcoins.com/) · [Paxful](https://paxful.com/)  
 
 - **Wallets:** [Electrum](https://electrum.org/) · [Trezor](https://trezor.io/) · [MetaMask](https://metamask.io/) · [Samourai Wallet](https://samouraiwallet.com/) · [Wasabi Wallet](https://wasabiwallet.io/) · [ZenGo](https://zengo.com/) · [Venly](https://www.venly.io/) · [Blockchain.com Wallet](https://www.blockchain.com/wallet) · [MyEtherWallet](https://www.myetherwallet.com/)  
 
-- **Mixers / Tumblers (OSINT-relevant targets):** [Wasabi Whirlpool](https://samouraiwallet.com/whirlpool) · [ChipMixer](https://chipmixer.com/) · [MixTum.io](https://mixtum.io/) · [Blender.io](https://blender.io/)  
-
-- **Nodes (for network analysis):** [Bitnodes](https://bitnodes.io/) · [Coin.Dance](https://coin.dance/)  
+- **Mixers / Tumblers (OSINT-relevant targets):** [Wasabi Whirlpool](https://samouraiwallet.com/whirlpool) · [ChipMixer](https://chipmixer.com/)
 
 ---
 
