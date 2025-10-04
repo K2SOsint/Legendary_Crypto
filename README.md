@@ -63,7 +63,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🛡 Abuse & Scam Databases
 - **Blacklists:**  
-  [ChainAbuse](https://www.chainabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/) · [CryptoBlacklist](https://cryptoblacklist.io/)  
+  [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/) · [CryptoBlacklist](https://cryptoblacklist.io/)  
 
 - **Scam Trackers:**  
   [Scam-Alert](https://scam-alert.io/) · [BadBitcoin](https://badbitcoin.org/) · [Bitcoinais](https://bitcoinais.com/) · [Cryptscam](http://cryptscam.com/) · [CryptoScamDB](https://cryptoscamdb.org/scams/) · [ScamCrypto.net](https://scamcrypto.net/) · [IsScamToken](https://isscamtoken.com/) · [ScamSearch](https://scamsearch.io/)  
@@ -187,7 +187,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 7. Visualize relationships with tools like [Breadcrumbs](https://breadcrumbs.app/) or [GraphSense](https://graphsense.info/).  
 
 ### Scam/Abuse Check
-- Query across [BitcoinAbuse](https://www.bitcoinabuse.com/), [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
+- Query across [Chainabuse](https://chainabuse.com/), and [BadBitcoin](https://badbitcoin.org/).  
 
 ### Lightning Network Payment Check
 1. Decode invoice with [Lightning Decoder](https://lightningdecoder.com/).  
