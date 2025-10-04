@@ -63,7 +63,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🛡 Abuse & Scam Databases
 - **Blacklists:**  
-  [BitcoinAbuse](https://www.bitcoinabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/) · [CryptoBlacklist](https://cryptoblacklist.io/)  
+  [ChainAbuse](https://www.chainabuse.com/) · [BitcoinWho’sWho](https://www.bitcoinwhoswho.com/) · [CheckBitcoinAddress](https://checkbitcoinaddress.com/) · [Scorechain Explorer](https://explorer.scorechain.com/) · [CryptoBlacklist](https://cryptoblacklist.io/)  
 
 - **Scam Trackers:**  
   [Scam-Alert](https://scam-alert.io/) · [BadBitcoin](https://badbitcoin.org/) · [Bitcoinais](https://bitcoinais.com/) · [Cryptscam](http://cryptscam.com/) · [CryptoScamDB](https://cryptoscamdb.org/scams/) · [ScamCrypto.net](https://scamcrypto.net/) · [IsScamToken](https://isscamtoken.com/) · [ScamSearch](https://scamsearch.io/)  
