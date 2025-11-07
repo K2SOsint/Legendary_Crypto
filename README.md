@@ -148,6 +148,9 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ---
 
+## 🤖 AI Crypto Assistants
+- [HeyAnon AI](https://heyanon.ai/) · [ChainGPT](https://chaingpt.org) · [Octavia](https://octavia.one)
+
 ## 💼 Specialized Analytic Services
 - [Crystal Blockchain](https://crystalblockchain.com/) · [CipherTrace](https://ciphertrace.com/) · [Chainalysis](https://www.chainalysis.com/)  
 - [Elliptic](https://www.elliptic.co/) · [Coinfirm](https://www.coinfirm.com/) · [AMLBot](https://amlbot.com/)  
@@ -161,6 +164,8 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - **Wallets:** [Electrum](https://electrum.org/) · [Trezor](https://trezor.io/) · [MetaMask](https://metamask.io/) · [Samourai Wallet](https://samouraiwallet.com/) · [Wasabi Wallet](https://wasabiwallet.io/) · [ZenGo](https://zengo.com/) · [Venly](https://www.venly.io/) · [Blockchain.com Wallet](https://www.blockchain.com/wallet) · [MyEtherWallet](https://www.myetherwallet.com/)  
 
 - **Mixers / Tumblers (OSINT-relevant targets):** [Wasabi Whirlpool](https://samouraiwallet.com/whirlpool) · [ChipMixer](https://chipmixer.com/)
+
+- **Bridges:** [Squid](https://www.squidrouter.com/) · [DeBridge](https://debridge.com/) · [MetaMask Bridging](https://metamask.io/news/bridge-easily-move-tokens-across-chains)
 
 ---
 
