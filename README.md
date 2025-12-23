@@ -126,7 +126,10 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [Decoding Lightning Payment Requests](https://medium.com/slamtrade/ln-parser-decoding-and-encoding-of-lightning-payment-request-f84824d8cf30)  
 
 - **Books:**  
-  [Mastering Bitcoin (Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook) · *Cryptoassets: The Innovative Investor's Guide* (Chris Burniske & Jack Tatar) · *The Basics of Bitcoins and Blockchains* (Antony Lewis)  
+  [Tracers in the Dark](https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095)
+
+- **Podcasts:**
+  [Trace & Tell](https://open.spotify.com/show/4dbNYO66fD5x5ReoTZ3oUq)  · [Darknet Diaries](https://darknetdiaries.com/) · [Around the Coin](https://www.aroundthecoin.com/) · [Chainalysis Public Key](https://open.spotify.com/show/4YNn2VOhtZplGT1azvvk13)  · [TRM Talks](https://open.spotify.com/show/2f9v6MaVkzI5qetfJCWSKP) · [The Future of Money](https://open.spotify.com/show/2wrwWE0G9TRnBarVyA9LDF) [Siren Investigates](https://open.spotify.com/show/7guWz33VgkycP1of5hHilI) · [Stolen Podcast](http://open.spotify.com/show/0jmcQGSFcj8caToNWZ6WM3) · [Women in Crypto](https://open.spotify.com/show/5kQULsCQlol87Chw7PgHdV) · [Seize & Desist](https://podcastaddict.com/podcast/seize-desist/5019038)
 
 - **Research & Standards:**  
   [NIST Blockchain Forensics](https://csrc.nist.gov/publications) · [European Union Blockchain Observatory Reports](https://www.eublockchainforum.eu/reports)  
