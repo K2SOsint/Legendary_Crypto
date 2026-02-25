@@ -80,6 +80,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - **Blockchain Data:**  
   [CryptoAPIs](https://cryptoapis.io/) · [Bitquery GraphQL](https://explorer.bitquery.io/) · [Blockchair API](https://blockchair.com/) · [BTC.com API](https://btc.com/btc/adapter?type=api-doc) · [Etherscan API](https://etherscan.io/apis) · [SoChain API](https://chain.so/api)  
 
+
 - **Abuse/Scam APIs:**  
   [BitcoinAbuse API](https://www.bitcoinabuse.com/api-docs) · [BitcoinWho’sWho API](https://www.bitcoinwhoswho.com/api)  
 
@@ -152,7 +153,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ---
 
 ## 🤖 AI Crypto Assistants
-- [HeyAnon AI](https://heyanon.ai/) · [ChainGPT](https://chaingpt.org) · [Octavia](https://octavia.one)
+- [HeyAnon AI](https://heyanon.ai/) · [ChainGPT](https://chaingpt.org) · [ChartScout](https://chartscout.io/) · [Octavia](https://octavia.one)
 
 ## 💼 Specialized Analytic Services
 - [Crystal Blockchain](https://crystalblockchain.com/) · [CipherTrace](https://ciphertrace.com/) · [Chainalysis](https://www.chainalysis.com/)  
