@@ -100,7 +100,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ## 🛡 Compliance, Risk & AML
 - [Chainalysis](https://www.chainalysis.com/) · [Elliptic](https://www.elliptic.co/) · [TRM Labs Blog](https://www.trmlabs.com/blog)  
 - [Coinfirm](https://www.coinfirm.com/) · [CipherTrace](https://ciphertrace.com/) · [Crystal Blockchain](https://crystalblockchain.com/)  
-- [AMLBot](https://amlbot.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/) · [AnChain.AI](https://www.anchain.ai/)  
+- [AMLBot](https://amlbot.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/) · [AnChain.AI](https://www.anchain.ai/) · [CryptoAML](https://cryptoaml.ai) (free Telegram bot [@cryptoamlscan_bot](https://t.me/cryptoamlscan_bot), 30+ chains, OFAC/UN/EU sanctions + darknet/mixer detection, no registration)  
 
 ---
 
