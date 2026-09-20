@@ -146,10 +146,9 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ## 🎓 Certifications
 - [CCE – Certified Cryptocurrency Expert](https://www.blockchain-council.org/certifications/certified-cryptocurrency-expert/)  
 - [CCFI – McAfee Institute](https://www.mcafeeinstitute.edu/products/certified-cryptocurrency-forensic-investigator-ccfi)  
-- [Chainalysis Certification Programs](https://www.chainalysis.com/chainalysis-certification-programs/)  
+- [Chainalysis Certification Programs]([https://academy.chainalysis.com/student/catalog])  
 - [CCI – Certified Crypto Investigator](https://www.cryptoinvestigatortraining.com/)  
-- [CTCE – CipherTrace Examiner](https://ciphertrace.com/certified-examiner-training/#1639596452769-9be0d67b-ba88)  
-- [ACAMS Virtual Currency Certificate](https://www.acams.org/en/training/certificates/virtual-currency-and-blockchain)  
+- [ACAMS Certificates]([https://www.acams.org/en/learning?f%5B0%5D=topic_webinars%3A920])  
 - [Cellebrite CCIT](https://www.cellebritelearningcenter.com/mod/page/view.php?id=61967)  
 - [CCSSA – CryptoCurrency Security Standard Auditor](https://cryptoconsortium.org/certifications/ccssa/)  
 - [NIST/NICE Aligned Certifications](https://www.nist.gov/itl/applied-cybersecurity/nice)  
