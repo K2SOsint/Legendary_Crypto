@@ -49,7 +49,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🔬 OSINT & Visualization Tools
 - **Tracing & Graphing:**  
-  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Bubblemaps](https://bubblemaps.io/) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/) · [GraphSense Maltego Transform](https://graphsense.info/) · [Etherscan Maltego Transforms](https://etherscan.io/) · [Cielo](https://cielo.finance/)  
+  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Bubblemaps](https://bubblemaps.io/) · [MistTrack](https://misttrack.io/) (SlowMist) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/) · [GraphSense Maltego Transform](https://graphsense.info/) · [Etherscan Maltego Transforms](https://etherscan.io/) · [Cielo](https://cielo.finance/)  
 
 - **Clustering & Analysis:**  
   [WalletExplorer](https://www.walletexplorer.com/) · [BitInfoCharts](https://bitinfocharts.com/) · [Bitcoin Who’s Who](https://www.bitcoinwhoswho.com/)  
@@ -102,13 +102,13 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - [Chainalysis](https://www.chainalysis.com/) · [Elliptic](https://www.elliptic.co/) · [TRM Labs Blog](https://www.trmlabs.com/blog)  
 - [Lukka (fka Coinfirm)](https://lukka.tech/) · [CipherTrace](https://ciphertrace.com/) · [Crystal Intelligence (fka Crystal Blockchain)](https://crystalintelligence.com/)  
 - [AMLBot](https://amlbot.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/) · [AnChain.AI](https://www.anchain.ai/)  
-- [OFAC Sanctions Search](https://sanctionssearch.ofac.treas.gov/) (US Treasury SDN list)  
+- [OFAC Sanctions Search](https://sanctionssearch.ofac.treas.gov/) (US Treasury SDN list) · [Chainalysis OFAC Sanctions Tracker](https://www.chainalysis.com/blog/ofac-sanctions/) (how sanctions map to crypto crime — good training reference)  
 
 ---
 
 ## 📚 Learning Resources
 - **Courses & Reports:**  
-  [MIT Crypto Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) · [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/)  
+  [MIT Crypto Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) · [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/) · [Chainalysis Academy](https://academy.chainalysis.com/) (free + certified courses) · [TRM North Korea/Lazarus Group Crypto Theft Tracking](https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks)  
 
 - **DataExpert Courses:**  
   [DataExpert Cryptocurrency Investigations](https://dataexpert.eu/academy/cryptocurrency-investigations) · [DataExpert Ethereum Basics](https://dataexpert.eu/academy/ethereum-basics) · [DataExpert Ethereum Advanced](https://dataexpert.eu/academy/ethereum-advanced) · [DataExpert Cryptocurrency Investigations Expert](https://dataexpert.eu/academy/cryptocurrency-investigations-expert-custom)  
@@ -123,6 +123,10 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [CipherTrace 101](https://ciphertrace.com/crypto-investigation-101/) · [Elliptic Casebook](https://www.elliptic.co/blog)  
   [Lampyre Bitcoin Forensics](https://lampyre-io.medium.com/collecting-bitcoin-wallet-info-for-osint-purposes-4c4d0f73a4fb)  
   [On-Chain Investigations Tools List (community, GitHub)](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)  
+  [Arkham: How To Be a Blockchain & Crypto Investigator](https://info.arkm.com/research/online-sleuth-how-to-be-a-blockchain-and-crypto-investigator) (getting-started guide)  
+
+- **Notable Investigators & Threat Intel Feeds:**  
+  [ZachXBT Investigations Bureau](https://zachxbt.live/) — independent on-chain investigator, public case files (great for studying real investigations)  
 
 - **Special Topics:**  
   [Privacy Coins 101](https://www.chainalysis.com/blog/privacy-coins-anonymity-enhanced-cryptocurrencies/) · [Bitcoin Tracking for Law Enforcement](https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement)  
@@ -142,6 +146,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ## 🎓 Certifications
 - [CCE – Certified Cryptocurrency Expert](https://www.blockchain-council.org/certifications/certified-cryptocurrency-expert/)  
 - [CCFI – McAfee Institute](https://www.mcafeeinstitute.edu/products/certified-cryptocurrency-forensic-investigator-ccfi)  
+- [Chainalysis Certification Programs](https://www.chainalysis.com/chainalysis-certification-programs/)  
 - [CCI – Certified Crypto Investigator](https://www.cryptoinvestigatortraining.com/)  
 - [CTCE – CipherTrace Examiner](https://ciphertrace.com/certified-examiner-training/#1639596452769-9be0d67b-ba88)  
 - [ACAMS Virtual Currency Certificate](https://www.acams.org/en/training/certificates/virtual-currency-and-blockchain)  
@@ -161,6 +166,9 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 - **Hack & Incident Databases:**  
   [Rekt.news](https://rekt.news/) · [DeFiLlama Hacks](https://defillama.com/hacks) · [SlowMist Hacked](https://hacked.slowmist.io/) · [Immunefi Explore](https://www.immunefi.com/explore)
 
+- **Incident Response:**  
+  [SEAL 911](https://securityalliance.org/our-work/seal-911) — free 24/7 hotline connecting active crypto security incidents with vetted responders
+
 ## 💼 Specialized Analytic Services
 - [Crystal Intelligence (fka Crystal Blockchain)](https://crystalintelligence.com/) · [CipherTrace](https://ciphertrace.com/) · [Chainalysis](https://www.chainalysis.com/)  
 - [Elliptic](https://www.elliptic.co/) · [Lukka (fka Coinfirm)](https://lukka.tech/) · [AMLBot](https://amlbot.com/)  
@@ -173,11 +181,21 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 - **Wallets:** [Electrum](https://electrum.org/) · [Trezor](https://trezor.io/) · [MetaMask](https://metamask.io/) · [Wasabi Wallet](https://wasabiwallet.io/) · [ZenGo](https://zengo.com/) · [Venly](https://www.venly.io/) · [Blockchain.com Wallet](https://www.blockchain.com/wallet) · [MyEtherWallet](https://www.myetherwallet.com/)  
 
-- **Mixers / Tumblers (OSINT-relevant targets):** [ChipMixer](https://chipmixer.com/) *(seized by DOJ/Europol, 2023 — domain now shows an official law-enforcement notice)*
+- **Mixers / Tumblers (OSINT-relevant targets):** [ChipMixer](https://chipmixer.com/) *(seized by DOJ/Europol, 2023 — domain now shows an official law-enforcement notice)* · Tornado Cash *(Ethereum mixer; OFAC-sanctioned Aug 2022, sanctions lifted March 2025 after a Fifth Circuit ruling and the split-verdict Roman Storm trial — the original frontend domain is dead, so don't link it directly; see [Merkle Science's write-up](https://www.merklescience.com/blog/what-tornado-cashs-sanctions-reversal-means-for-crypto-compliance) for the case history — it remains a major laundering vector to study)*
 
   > ⚠️ **Note:** Samourai Wallet / Whirlpool is intentionally not linked here. Its founders were arrested and the service was seized by the DOJ in April 2024 as part of a $2B money-laundering case. Afterward, the samouraiwallet.com domain was reported to be associated with a phishing/scam clone targeting Bitcoin users — treat any link claiming to be the live service with caution.
 
+- **Sanctioned / Seized Exchanges (OSINT-relevant targets, referenced via case write-ups rather than the (often seized or repurposed) domains themselves):**  
+  [Garantex / Grinex](https://home.treasury.gov/news/press-releases/sb0225) *(OFAC-sanctioned & seized, March 2025; successor Grinex also sanctioned)* · [Bitzlato](https://www.chainalysis.com/blog/us-authorities-shut-down-high-risk-exchange-bitzlato/) *(seized by DOJ, January 2023)* · [Suex & Chatex](https://home.treasury.gov/news/press-releases/jy0471) *(OFAC-sanctioned 2021 for ransomware laundering)*
+
 - **Bridges:** [Squid](https://www.squidrouter.com/) · [DeBridge](https://debridge.com/) · [MetaMask Bridging](https://metamask.io/news/bridge-easily-move-tokens-across-chains)
+
+---
+
+## 🖼 NFT Resources
+- **Marketplaces:** [OpenSea](https://opensea.io/) · [LooksRare](https://looksrare.org/) · [Blur](https://blur.io/) · [Magic Eden](https://magiceden.us/)  
+
+- **Analytics & Provenance:** [Nansen](https://www.nansen.ai/) · [Dune](https://dune.com/) · [icy.tools](https://developers.icy.tools/) · [Bubblemaps](https://bubblemaps.io/) (holder concentration / wash-trading clusters)  
 
 ---
 
