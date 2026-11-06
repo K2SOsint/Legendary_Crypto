@@ -101,7 +101,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 ## 🛡 Compliance, Risk & AML
 - [Chainalysis](https://www.chainalysis.com/) · [Elliptic](https://www.elliptic.co/) · [TRM Labs Blog](https://www.trmlabs.com/blog)  
 - [Lukka (fka Coinfirm)](https://lukka.tech/) · [CipherTrace](https://ciphertrace.com/) · [Crystal Intelligence (fka Crystal Blockchain)](https://crystalintelligence.com/)  
-- [AMLBot](https://amlbot.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/) · [AnChain.AI](https://www.anchain.ai/)  
+- [AMLBot](https://amlbot.com/) · [FreezeRadar](https://freezeradar.com/) · [Scorechain](https://www.scorechain.com/) · [Merkle Science](https://www.merklescience.com/) · [AnChain.AI](https://www.anchain.ai/)  
 - [OFAC Sanctions Search](https://sanctionssearch.ofac.treas.gov/) (US Treasury SDN list) · [Chainalysis OFAC Sanctions Tracker](https://www.chainalysis.com/blog/ofac-sanctions/) (how sanctions map to crypto crime — good training reference)  
 
 ---
