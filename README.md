@@ -55,7 +55,7 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
   [WalletExplorer](https://www.walletexplorer.com/) · [BitInfoCharts](https://bitinfocharts.com/) · [Bitcoin Who’s Who](https://www.bitcoinwhoswho.com/)  
 
 - **Forensics Platforms:**  
-  [Maltego + CipherTrace](https://www.maltego.com/blog/bitcoin-forensics-with-maltego-and-ciphertrace-blockchain-intelligence/) · [Intel471 (fka SpiderFoot)](https://www.intel471.com/)  
+  [Maltego + CipherTrace](https://www.maltego.com/blog/bitcoin-forensics-with-maltego-and-ciphertrace-blockchain-intelligence/) · [Intel471 (fka SpiderFoot)](https://www.intel471.com/) · [Hopline](https://github.com/forensicworks/hopline)
 
 - **Wallet & Key Recovery / Quick Checks:**  
   [BTCrecover](https://github.com/gurnec/btcrecover) · [BitRef](https://bitref.com/)  
