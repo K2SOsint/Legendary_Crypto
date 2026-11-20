@@ -49,13 +49,13 @@ These come various open source startpages, LinkedIn posts, the legendary (Stay S
 
 ## 🔬 OSINT & Visualization Tools
 - **Tracing & Graphing:**  
-  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Bubblemaps](https://bubblemaps.io/) · [MistTrack](https://misttrack.io/) (SlowMist) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/) · [GraphSense Maltego Transform](https://graphsense.info/) · [Etherscan Maltego Transforms](https://etherscan.io/) · [Cielo](https://cielo.finance/)  
+  [Breadcrumbs](https://breadcrumbs.app/) · [Blockpath](https://blockpath.com/) · [GraphSense](https://graphsense.info/) · [Bubblemaps](https://bubblemaps.io/) · [MistTrack](https://misttrack.io/) (SlowMist) · [Orbit (OS)](https://github.com/s0md3v/Orbit) · [Shard](https://github.com/) · [C-Hound](https://c-hound.ai/) · [BlockSci](https://citp.github.io/BlockSci/) · [Chainflyer](https://chainflyer.bitflyer.com/) · [GraphSense Maltego Transform](https://graphsense.info/) · [Etherscan Maltego Transforms](https://etherscan.io/) · [Cielo](https://cielo.finance/) · [Hopline](https://github.com/forensicworks/hopline)
 
 - **Clustering & Analysis:**  
   [WalletExplorer](https://www.walletexplorer.com/) · [BitInfoCharts](https://bitinfocharts.com/) · [Bitcoin Who’s Who](https://www.bitcoinwhoswho.com/)  
 
 - **Forensics Platforms:**  
-  [Maltego + CipherTrace](https://www.maltego.com/blog/bitcoin-forensics-with-maltego-and-ciphertrace-blockchain-intelligence/) · [Intel471 (fka SpiderFoot)](https://www.intel471.com/) · [Hopline](https://github.com/forensicworks/hopline)
+  [Maltego + CipherTrace](https://www.maltego.com/blog/bitcoin-forensics-with-maltego-and-ciphertrace-blockchain-intelligence/) · [Intel471 (fka SpiderFoot)](https://www.intel471.com/) 
 
 - **Wallet & Key Recovery / Quick Checks:**  
   [BTCrecover](https://github.com/gurnec/btcrecover) · [BitRef](https://bitref.com/)  
